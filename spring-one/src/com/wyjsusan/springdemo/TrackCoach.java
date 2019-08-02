@@ -3,6 +3,7 @@ package com.wyjsusan.springdemo;
 public class TrackCoach implements Coach {
 
 	private FortuneService fortuneService;
+	
 	public TrackCoach() {
 		
 	}
